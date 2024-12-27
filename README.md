@@ -18,7 +18,4 @@ We followed a YouTube tutorial on how to connect the ESP8266 board to Google She
 * Air Quality
 
 ## Device
-<img src="photo_2024-12-21_14-29-08-1.jpg" alt="device" class = "center" width="300"/>
-![Alt text](https://drive.google.com/file/d/1l155bqiBxRXbo7lcVwDLn2uJSIkU7trI/view?usp=sharing "a title")
-## Reference 
-* https://www.youtube.com/watch?v=uuPyRGJSsHs 
+![photo_2024-12-21_14-29-08](https://github.com/user-attachments/assets/9fdf502a-3b80-4f51-ac91-5194af5e4548)
